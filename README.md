@@ -33,9 +33,18 @@ Once you have all of the parts, go ahead and use this schematic to help you wire
 
 # Step 1
 
-lay the base on its side and put the main wheel through the hole on the base with the middle part holding the 2 wheels together
+lay the base on its side and put the main wheel through the hole on the base with the middle part holding the 2 wheels together then slide in the cargo/holder that you want and screw them in with the M3 12mm screws.
 
 <img width="853" height="415" alt="image" src="https://github.com/user-attachments/assets/408fa5cb-a633-4592-81d0-6981e95e4fda" />
 
+# Step 2 
 
+put the second base on top of step 1 so it aligns with the screw holes and screw it in with the M3 12mm screws.
 
+<img width="952" height="489" alt="image" src="https://github.com/user-attachments/assets/967856c9-565a-4d48-9e90-c4514010b992" />
+
+# Step 3 
+
+You have now finsihed the Ferris Wheel now time for the controller. Note this does have to be close to the ferris wheel unless your stepper motor has really long wires.
+
+First insert the pcb into the box and wire the stuff from the pcb up (ADD THIS LATER ME TIRED)
