@@ -3,6 +3,12 @@ P.S This is a project that you randomly think would be funny but end actully mak
 
 This project is a ferris wheel that you can put screws and other small items in, so when you push a button, it rotates the wheel one seat(holder thingy) so you can grab whatever you need then go to the next seat.
 
+I made this project beause i though it would be funny and a cool desktoy
+
+the hardest part was defenitly modeleing beacuse i am pretty new to onshape and i have never built somehting so big with it before. 
+
+I learned that i really enjoy listing to music while working on it and that i should plan and save files a lot more.
+
 <img width="1280" height="720" alt="FerrisWheelOrganizer" src="https://github.com/user-attachments/assets/413f65ff-2904-492a-85ed-efffa5db7bfa" />
 
 # To build it
