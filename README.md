@@ -47,4 +47,10 @@ put the second base on top of step 1 so it aligns with the screw holes and screw
 
 You have now finsihed the Ferris Wheel now time for the controller. Note this does have to be close to the ferris wheel unless your stepper motor has really long wires.
 
-First insert the pcb into the box and wire the stuff from the pcb up (ADD THIS LATER ME TIRED)
+First insert the pcb into the box and wire the stuff from the pcb up (ADD THIS LATER ME TIRED) then hot glue or glue the 3 buttons onto the buttons and put the top on, use M3 12mm screws.
+
+<img width="821" height="572" alt="image" src="https://github.com/user-attachments/assets/e0df7993-2758-4a79-82e7-4691ae48b258" />
+
+# Step 4 
+
+Now just upload the code and plugin the power :) have fun.
