@@ -15,11 +15,13 @@ This project is a ferris wheel that you can put screws and other small items in,
 
 ALSO
 
+3x 6mm through-hole momentary push buttons, 4.3mm height ([Link](https://www.amazon.com/Momentary-Tactile-Through-Breadboard-Friendly/dp/B07WF76VHT/ref=sxin_16_pa_sp_search_thematic_sspa?content-id=amzn1.sym.3afbfb03-37f9-433d-812b-5618f5fce9ff%3Aamzn1.sym.3afbfb03-37f9-433d-812b-5618f5fce9ff&cv_ct_cx=push+button+amazon&hvadid=695372375513&hvdev=c&hvexpln=67&hvlocphy=9051519&hvnetw=g&hvocijid=13079691696891314430--&hvqmt=e&hvrand=13079691696891314430&hvtargid=kwd-901175987013&hydadcr=7496_13184019&keywords=push+button+amazon&mcid=ce58c0ce72cf3e5182a4e7b389dc283b&pd_rd_i=B07WF76VHT&pd_rd_r=e070f955-469c-4ea4-88f3-a911c28ee738&pd_rd_w=jgkFu&pd_rd_wg=xhqKh&pf_rd_p=3afbfb03-37f9-433d-812b-5618f5fce9ff&pf_rd_r=PA9J6DZHGZFRM29VR1PD&qid=1754704883&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-2-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1))
+
 breadboard and wires for testing the hardware before using the grb to manufacutre the pcb.
 
 All of the parts 3d printed or someother way like resin (20% percent infill is fine but it doesnt really matter)
 
-#Instructions
+# Instructions
 
 Once you have all of the parts, go ahead and use this schematic to help you wire it with a breadboard 
 
