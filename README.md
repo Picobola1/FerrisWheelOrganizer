@@ -19,5 +19,10 @@ breadboard and wires for testing the hardware before using the grb to manufacutr
 
 All of the parts 3d printed or someother way like resin (20% percent infill is fine but it doesnt really matter)
 
+#Instructions
+
+Once you have all of the parts, go ahead and use this schematic to help you wire it with a breadboard 
+
+<img width="1015" height="545" alt="image" src="https://github.com/user-attachments/assets/a4993761-a23b-4fce-905b-e05bbcd7877c" />
 
 
