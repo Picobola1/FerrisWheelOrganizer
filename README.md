@@ -17,14 +17,25 @@ This project is a ferris wheel that you can put screws and other small items in,
 
 1x Arduino Nano ([Here](https://www.amazon.com/EASTPONDO-Microcontroller-Pre-soldered-Compatible-Arduino/dp/B0DFQ437TH/ref=sr_1_7_sspa?dib=eyJ2IjoiMSJ9.gA_RBHQKlL9fqee7OwDWK3TVa4f1jG2BDdr1cCnXe_MdE0s8wO5aJ8pkLaNAC-VVU5JtYG8JwmCtjiEy8soICr3GixwP0JBQigJ8H5mRijb5HocePXsI_XiaRH_7kLuhgRHpgfcrok9yoqa0V87dT0czxmASb9eGAirYZVxiweozVjGFWz7rgMowS-gMH8vKLY7pfJAK1bS5o5yrIKoTh1h56r2aUwyqqAmVj4dNNIE.HUR7PR1dLxfPpBB7sd6zurFShn8jE-4tTOO5A919Ofk&dib_tag=se&hvadid=695375672094&hvdev=c&hvexpln=67&hvlocphy=9051519&hvnetw=g&hvocijid=13633693633943766230--&hvqmt=e&hvrand=13633693633943766230&hvtargid=kwd-362855578768&hydadcr=18009_13447378&keywords=amazon+arduino+nano&mcid=ac8313c9e7bd3a1ebb1392b633aeedd3&qid=1754705207&refinements=p_36%3A-1700&rnid=386442011&sr=8-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1))
 
+1x Pin Header 1x5 (for pcb)
+
+1x Pin Header 1x2 (for pcb)
+
 breadboard and wires for testing the hardware before using the grb to manufacutre the pcb.
 
 All of the parts 3d printed or someother way like resin (20% percent infill is fine but it doesnt really matter)
 
 # Instructions
 
-Once you have all of the parts, go ahead and use this schematic to help you wire it with a breadboard 
+Once you have all of the parts, go ahead and use this schematic to help you wire it with a breadboard or if your brave just order the pcb
 
 <img width="1015" height="545" alt="image" src="https://github.com/user-attachments/assets/a4993761-a23b-4fce-905b-e05bbcd7877c" />
+
+# Step 1
+
+lay the base on its side and put the main wheel through the hole on the base with the middle part holding the 2 wheels together
+
+<img width="853" height="415" alt="image" src="https://github.com/user-attachments/assets/408fa5cb-a633-4592-81d0-6981e95e4fda" />
+
 
 
