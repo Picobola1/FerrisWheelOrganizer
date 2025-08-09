@@ -23,7 +23,10 @@ This project is a ferris wheel that you can put screws and other small items in,
 
 breadboard and wires for testing the hardware before using the grb to manufacutre the pcb.
 
+![Uploading image.png…]()
+
 All of the parts 3d printed or someother way like resin (20% percent infill is fine but it doesnt really matter)
+1x of everything execpt for 3x buttons and however many cargo/ holder you want (max is 8)
 
 # Instructions
 
@@ -47,10 +50,17 @@ put the second base on top of step 1 so it aligns with the screw holes and screw
 
 You have now finsihed the Ferris Wheel now time for the controller. Note this does have to be close to the ferris wheel unless your stepper motor has really long wires.
 
-First insert the pcb into the box and wire the stuff from the pcb up (ADD THIS LATER ME TIRED) then hot glue or glue the 3 buttons onto the buttons and put the top on, use M3 12mm screws.
+First insert the pcb into the box and wire the stuff from the pcb up (At the bottem) then hot glue or glue the 3 buttons onto the buttons and put the top on, use M3 12mm screws.
 
 <img width="821" height="572" alt="image" src="https://github.com/user-attachments/assets/e0df7993-2758-4a79-82e7-4691ae48b258" />
 
 # Step 4 
 
 Now just upload the code and plugin the power :) have fun.
+
+
+# PCB guide 
+
+to plug every thing in the 2 pins are for power and gnd , the 5 pins are for the motor driver 4 input pins, and glue the buttons onto the push buttons and you are all set
+
+
