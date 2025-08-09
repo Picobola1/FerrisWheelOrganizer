@@ -7,10 +7,10 @@ This project is a ferris wheel that you can put screws and other small items in,
 
 # To build it
 
-3d print all the ferris wheel parts
-
 24x M3x12 screws
 
-The pcb or breadboard + all the hardware
+1x 28BYJ-48 DC Stepper Motor 
 
- - then you just screw everything together. (i dont have the physical parts right now to build it so i cant really demonstrate.)
+1x ULN2003 Driver Test Module Board (you can get both here [Here](https://www.amazon.com/Aoicrie-28BYJ-48-Stepper-ULN2003-Arduino/dp/B07Z4BCY34/ref=sr_1_18?crid=30050OUVGY3IK&dib=eyJ2IjoiMSJ9.4H5mpY-xIVvTQ6Eu0ElQQyx78D2V2-c2F2viQ88cHiyxLSFPU7p_H6jLMM5rM2Pp9f4mAYkoUhALU2quD43HG_aMONg68MmZ2DaTBeR3hcnlQBhZBcOzhS3Y3RNNsGsDzrrSdXtXVqw4l3c2jbkXNIHOEM2RvwsW0aHa2bCH63sEDpWlfRnqr4-50PPtt0l0thLjaa-dxNKJ7Ksv6xj-bLVRP6vb6Vl8F-y-Su2ypJs.hxkWC0xT_ZFts2pBB3f8EnZUKG_TjAzSC9bmYVCKEYs&dib_tag=se&keywords=unipolar+stepper+motor&qid=1753672978&sprefix=stepper+motor+uni%2Caps%2C176&sr=8-18))
+
+
