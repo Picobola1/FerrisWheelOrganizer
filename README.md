@@ -23,7 +23,7 @@ This project is a ferris wheel that you can put screws and other small items in,
 
 breadboard and wires for testing the hardware before using the grb to manufacutre the pcb.
 
-![Uploading image.png…]()
+
 
 All of the parts 3d printed or someother way like resin (20% percent infill is fine but it doesnt really matter)
 1x of everything execpt for 3x buttons and however many cargo/ holder you want (max is 8)
